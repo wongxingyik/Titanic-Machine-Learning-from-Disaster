@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+*.cfg
+*.DS_Store
+bin/
+lib/
+etc/
+share/
+conda-meta/
+*.nonadmin
+*.ipynb_checkpoints/
+*.zip
